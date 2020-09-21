@@ -1,0 +1,32 @@
+{
+	"jakma": {
+		"prefix": "fcreact",
+		"body": [
+		  "import { FunctionComponent, Fragment } from 'react';",
+		  "",
+		  "interface Props {",
+		  "",
+		  "}",
+		  "",
+		  "const index: FunctionComponent<Props> = ({",
+		  "",
+		  "}) => {",
+		  "    return (",
+		  "      <Fragment>",
+		  "    ",
+		  "      </Fragment>",
+		  "    );",
+		  "};",
+		  "",
+		  "export default index;"
+		],
+		"description": ""
+	},
+	"import": {
+		"prefix": "import",
+		"body": [
+		  "import {  } from '$0';"
+		],
+		"description": ""
+	}
+}
