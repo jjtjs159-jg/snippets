@@ -1,2 +1,2 @@
 # snippets
-jgpark vscode snippets
+jgpark vscode settings, snippets
