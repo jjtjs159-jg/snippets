@@ -19,6 +19,15 @@
                 "settings": {
                     "foreground": "#7A9EFF",
                     "fontStyle": "italic"
+                },
+            },
+            {
+                "scope": [
+                    "variable.other.constant",
+                    "variable.other.enummember"
+                ],
+                "settings": {
+                    "foreground": "#9CDCFE"
                 }
             }
         ]
