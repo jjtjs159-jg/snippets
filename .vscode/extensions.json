@@ -9,6 +9,7 @@
         "mrmlnc.vscode-scss",
         "stylelint.vscode-stylelint",
         "dbaeumer.vscode-eslint",
+        "jpoissonnier.vscode-styled-components",
         "whtouche.vscode-js-console-utils"
     ]
 }
