@@ -9,6 +9,7 @@
     "eslint.alwaysShowStatus": true,
     "typescript.tsdk": "node_modules\\typescript\\lib",
     "workbench.colorCustomizations": {
+        "editorUnnecessaryCode.border": "#dd7aab",
         "activityBar.foreground": "#7A9EFF",
         "badge.background": "#0088AA"
     },
