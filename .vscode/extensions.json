@@ -10,6 +10,7 @@
         "stylelint.vscode-stylelint",
         "dbaeumer.vscode-eslint",
         "jpoissonnier.vscode-styled-components",
-        "whtouche.vscode-js-console-utils"
+        "whtouche.vscode-js-console-utils",
+        "esbenp.prettier-vscode",
     ]
 }
